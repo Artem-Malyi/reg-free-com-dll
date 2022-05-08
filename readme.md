@@ -1,3 +1,6 @@
-# reg-free-com-dll
+# COM Registration-free .NET assembly
 
-Example of managed COM server in C# and native COM client in C++ that interact without a single entry in Windows Registry. 
+Example of managed COM server in C# and native COM client in C++, interacting without a single entry in Windows Registry.
+
+Based on:
+ * https://www.codeproject.com/Articles/1213929/Troubleshooting-Registration-Free-COM
