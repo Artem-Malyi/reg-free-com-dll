@@ -4,3 +4,4 @@ Example of managed COM server in C# and native COM client in C++, interacting wi
 
 Based on:
  * https://www.codeproject.com/Articles/1213929/Troubleshooting-Registration-Free-COM
+ * https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/ms973915(v=msdn.10)
